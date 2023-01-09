@@ -1,0 +1,113 @@
+"G:\Academic\Comp 2150\CLion Projects\Assignment2\cmake-build-debug\Assignment2.exe" officialTestA2.txt 3
+The filename is: officialTestA2.txt
+The version selected is: 3
+
+Time: 1, FoodOrder 1 arrives -> Expiry: 10 - Meal: Pizza - Ingredients: 3 - Prep. time: 9 Price: $15.99
+Time: 1, FoodOrder 1 is getting prepared by the chef!
+Time: 5, FoodOrder 2 arrives -> Expiry: 20 - Meal: Stew - Ingredients: 4 - Prep. time: 11 Price: $18.99
+Time: 10, FoodOrder 1 has been served! Revenue grew by: $15.99
+Time: 10, FoodOrder 2 is getting prepared by the chef!
+Time: 10, FoodOrder 3 arrives -> Expiry: 30 - Meal: Burger - Ingredients: 4 - Prep. time: 8 Price: $12.99
+Time: 50, FoodOrder 4 arrives -> Expiry: 60 - Meal: Pizza - Ingredients: 6 - Prep. time: 12 Price: $18.99
+Time: 60, FoodOrder 5 arrives -> Expiry: 75 - Meal: Stew - Ingredients: 7 - Prep. time: 14 Price: $21.99
+Time: 100, FoodOrder 6 arrives -> Expiry: 125 - Meal: Salad - Ingredients: 4 - Prep. time: 7 Price: $10.99
+Time: 105, FoodOrder 7 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 1 - Prep. time: 8 Price: $15.99
+Time: 105, FoodOrder 12 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 105, FoodOrder 13 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 4 - Prep. time: 8 Price: $12.99
+Time: 105, FoodOrder 14 arrives -> Expiry: 150 - Meal: Pizza - Ingredients: 4 - Prep. time: 10 Price: $16.99
+Time: 105, FoodOrder 15 arrives -> Expiry: 150 - Meal: Pizza - Ingredients: 7 - Prep. time: 13 Price: $19.99
+Time: 105, FoodOrder 16 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 3 - Prep. time: 10 Price: $17.99
+Time: 105, FoodOrder 17 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 5 - Prep. time: 12 Price: $19.99
+Time: 105, FoodOrder 18 arrives -> Expiry: 150 - Meal: Salad - Ingredients: 1 - Prep. time: 4 Price: $7.99
+Time: 105, FoodOrder 19 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 1 - Prep. time: 5 Price: $9.99
+Time: 21, FoodOrder 2 has been served! Revenue grew by: $18.99
+Time: 21, FoodOrder 5 is getting prepared by the chef!
+Time: 35, FoodOrder 5 has been served! Revenue grew by: $21.99
+Time: 35, FoodOrder 15 is getting prepared by the chef!
+Time: 48, FoodOrder 15 has been served! Revenue grew by: $19.99
+Time: 48, FoodOrder 17 is getting prepared by the chef!
+Time: 60, FoodOrder 17 has been served! Revenue grew by: $19.99
+Time: 60, FoodOrder 4 is getting prepared by the chef!
+Time: 72, FoodOrder 4 has been served! Revenue grew by: $18.99
+Time: 72, FoodOrder 16 is getting prepared by the chef!
+Time: 82, FoodOrder 16 has been served! Revenue grew by: $17.99
+Time: 82, FoodOrder 14 is getting prepared by the chef!
+Time: 92, FoodOrder 14 has been served! Revenue grew by: $16.99
+Time: 92, FoodOrder 7 is getting prepared by the chef!
+Time: 100, FoodOrder 7 has been served! Revenue grew by: $15.99
+Time: 100, FoodOrder 13 is getting prepared by the chef!
+Time: 105, FoodOrder 8 arrives -> Expiry: 150 - Meal: Burger - Ingredients: 1 - Prep. time: 5 Price: $9.99
+Time: 105, FoodOrder 9 arrives -> Expiry: 150 - Meal: Stew - Ingredients: 4 - Prep. time: 11 Price: $18.99
+Time: 105, FoodOrder 10 arrives -> Expiry: 150 - Meal: Salad - Ingredients: 3 - Prep. time: 6 Price: $9.99
+Time: 105, FoodOrder 11 arrives -> Expiry: 150 - Meal: Pizza - Ingredients: 3 - Prep. time: 9 Price: $15.99
+Time: 500, FoodOrder 20 arrives -> Expiry: 520 - Meal: Burger - Ingredients: 1 - Prep. time: 5 Price: $9.99
+Time: 505, FoodOrder 21 arrives -> Expiry: 525 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 510, FoodOrder 22 arrives -> Expiry: 520 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 511, FoodOrder 23 arrives -> Expiry: 525 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 515, FoodOrder 24 arrives -> Expiry: 529 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 520, FoodOrder 25 arrives -> Expiry: 535 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 521, FoodOrder 26 arrives -> Expiry: 536 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 522, FoodOrder 27 arrives -> Expiry: 538 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 524, FoodOrder 28 arrives -> Expiry: 540 - Meal: Burger - Ingredients: 4 - Prep. time: 8 Price: $12.99
+Time: 525, FoodOrder 29 arrives -> Expiry: 550 - Meal: Burger - Ingredients: 2 - Prep. time: 6 Price: $10.99
+Time: 700, FoodOrder 30 arrives -> Expiry: 730 - Meal: Pizza - Ingredients: 3 - Prep. time: 9 Price: $15.99
+Time: 701, FoodOrder 31 arrives -> Expiry: 750 - Meal: Pizza - Ingredients: 1 - Prep. time: 7 Price: $13.99
+Time: 702, FoodOrder 32 arrives -> Expiry: 730 - Meal: Pizza - Ingredients: 1 - Prep. time: 7 Price: $13.99
+Time: 703, FoodOrder 33 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 2 - Prep. time: 8 Price: $14.99
+Time: 704, FoodOrder 34 arrives -> Expiry: 755 - Meal: Pizza - Ingredients: 3 - Prep. time: 9 Price: $15.99
+Time: 705, FoodOrder 35 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 10 - Prep. time: 16 Price: $22.99
+Time: 706, FoodOrder 36 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 1 - Prep. time: 7 Price: $13.99
+Time: 108, FoodOrder 13 has been served! Revenue grew by: $12.99
+Time: 108, FoodOrder 35 is getting prepared by the chef!
+Time: 124, FoodOrder 35 has been served! Revenue grew by: $22.99
+Time: 124, FoodOrder 9 is getting prepared by the chef!
+Time: 135, FoodOrder 9 has been served! Revenue grew by: $18.99
+Time: 135, FoodOrder 11 is getting prepared by the chef!
+Time: 144, FoodOrder 11 has been served! Revenue grew by: $15.99
+Time: 144, FoodOrder 30 is getting prepared by the chef!
+Time: 153, FoodOrder 30 has been served! Revenue grew by: $15.99
+Time: 153, FoodOrder 34 is getting prepared by the chef!
+Time: 162, FoodOrder 34 has been served! Revenue grew by: $15.99
+Time: 162, FoodOrder 33 is getting prepared by the chef!
+Time: 170, FoodOrder 33 has been served! Revenue grew by: $14.99
+Time: 170, FoodOrder 31 is getting prepared by the chef!
+Time: 177, FoodOrder 31 has been served! Revenue grew by: $13.99
+Time: 177, FoodOrder 32 is getting prepared by the chef!
+Time: 184, FoodOrder 32 has been served! Revenue grew by: $13.99
+Time: 184, FoodOrder 36 is getting prepared by the chef!
+Time: 191, FoodOrder 36 has been served! Revenue grew by: $13.99
+Time: 191, FoodOrder 28 is getting prepared by the chef!
+Time: 199, FoodOrder 28 has been served! Revenue grew by: $12.99
+Time: 199, FoodOrder 6 is getting prepared by the chef!
+Time: 206, FoodOrder 6 has been served! Revenue grew by: $10.99
+Time: 206, FoodOrder 12 is getting prepared by the chef!
+Time: 212, FoodOrder 12 has been served! Revenue grew by: $10.99
+Time: 212, FoodOrder 21 is getting prepared by the chef!
+Time: 218, FoodOrder 21 has been served! Revenue grew by: $10.99
+Time: 218, FoodOrder 22 is getting prepared by the chef!
+Time: 224, FoodOrder 22 has been served! Revenue grew by: $10.99
+Time: 224, FoodOrder 23 is getting prepared by the chef!
+Time: 230, FoodOrder 23 has been served! Revenue grew by: $10.99
+Time: 230, FoodOrder 24 is getting prepared by the chef!
+Time: 236, FoodOrder 24 has been served! Revenue grew by: $10.99
+Time: 236, FoodOrder 25 is getting prepared by the chef!
+Time: 242, FoodOrder 25 has been served! Revenue grew by: $10.99
+Time: 242, FoodOrder 26 is getting prepared by the chef!
+Time: 248, FoodOrder 26 has been served! Revenue grew by: $10.99
+Time: 248, FoodOrder 27 is getting prepared by the chef!
+Time: 254, FoodOrder 27 has been served! Revenue grew by: $10.99
+Time: 254, FoodOrder 29 is getting prepared by the chef!
+Time: 260, FoodOrder 29 has been served! Revenue grew by: $10.99
+Time: 260, FoodOrder 20 is getting prepared by the chef!
+Time: 265, FoodOrder 20 has been served! Revenue grew by: $9.99
+Time: 707, FoodOrder 37 arrives -> Expiry: 740 - Meal: Pizza - Ingredients: 1 - Prep. time: 7 Price: $13.99
+Time: 265, FoodOrder 37 is getting prepared by the chef!
+Time: 272, FoodOrder 37 has been served! Revenue grew by: $13.99
+
+.....simulation ended.
+-Total number of orders completed: 32
+-Total revenue: 473.68
+
+Programmed by Gurdit Singh
+
+Process finished with exit code 0

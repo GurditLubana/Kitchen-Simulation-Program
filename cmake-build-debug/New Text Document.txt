@@ -1,0 +1,18 @@
+500 520 Burger Cheese
+505 525 Burger Cheese Tomato
+510 520 Burger Cheese Onions
+511 525 Burger Cheese Bacon
+515 529 Burger Cheese Pickles
+520 535 Burger Cheese BananaPeppers
+521 536 Burger Ketchup Chipotle
+522 538 Burger Ketchup Mayo
+524 540 Burger Ketchup Mayo Mustard Chipotle
+525 550 Burger Ketchup Mustard
+700 730 Pizza Jalapeno BananaPeppers Chicken
+701 750 Pizza ExtraCheese
+702 730 Pizza ExtraSauce
+703 740 Pizza Pepperoni Salami
+704 755 Pizza Pepperoni Salami Bacon
+705 740 Pizza Spinach Tomatoes Onions Garlic PlantBasedPepperoni Olives Peppers Mushrooms Arugula Bruschetta
+706 740 Pizza Broccoli
+707 740 Pizza Anchovies
